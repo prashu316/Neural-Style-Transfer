@@ -7,7 +7,7 @@ To generate new images based on styles defined by a "style" image projected onto
 Tensorflow and Keras
 
 ## Dataset Details
-Consists of only 2 images, a base image and a style image
+Consists of only 2 images, a base image and a style image but requires a pretrained image classifier
 
 ## Outputs
 Base image:
